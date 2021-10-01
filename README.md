@@ -1,1 +1,4 @@
-# template-jurnal02
+# Jurnal Modul 02
+
+NIM: 
+Nama: 
